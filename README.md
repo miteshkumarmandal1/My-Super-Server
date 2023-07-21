@@ -1,6 +1,6 @@
 # My-Super-Server
 Overview:-
-The Simple Java Messaging Server is a basic Java server application designed to facilitate simple messaging between clients.
+The My-Super-Server is a basic simple Java server application designed to facilitate simple messaging between clients.
 The server uses Java's Socket API to handle client connections and enables real-time communication through text-based messages.
 
 
@@ -25,10 +25,10 @@ Clients can send and receive messages once connected.
 To exit the server, simply press 2 and enter.
 
 Contributing:-
-We welcome contributions to enhance the Simple Java Messaging Server. If you find any bugs or have suggestions for new features, please feel free to open an issue or submit a pull request.
+We welcome contributions to enhance the My-Super-Server. If you find any bugs or have suggestions for new features, please feel free to open an issue or submit a pull request.
 
 For major feature enhancements or architectural changes, it is recommended to discuss the proposed changes first by opening an issue.
 
 
 Acknowledgments:-
-We would like to express our gratitude to the developers and contributors of open-source projects and libraries that have contributed to the development of the Simple Java Messaging Server.
+We would like to express our gratitude to the developers and contributors of open-source projects and libraries that have contributed to the development of the My-Super-Server.
